@@ -1,0 +1,12 @@
+.cities-section{padding: 0 0 3em 0;
+    background-color: #003c5e;}
+body .clr-white{color: #fff;}
+.cities-section h3{padding-bottom: 15px;}
+.cities a{margin-left: 10px; margin: 0px 5px 0px;}
+
+@media (max-width: 575px){
+    .cities a{display: inline-block;
+        width: 45%;
+        margin-bottom: 13px;}
+    .cities-section{padding: 0 0 1em 0;}
+}

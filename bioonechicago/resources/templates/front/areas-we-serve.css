@@ -1,0 +1,27 @@
+/* SECTION6 */
+#section6 ul li {list-style: disc}
+#section6 a {
+    font-size: 18px;
+    padding: 10px 0;
+    display: block;
+    color: #003c5e;
+    font-weight: 700;
+}
+
+
+
+     /* SECTION6 */
+
+
+   
+     @media (max-width: 991px) {
+       #section6 .ptb3 {padding: 15px}
+       #section6 amp-img {margin: 1em 0}
+    
+     }
+
+     @media (max-width: 767px) {
+         #section6 amp-img {display: none}
+     }
+
+     

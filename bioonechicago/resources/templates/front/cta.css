@@ -1,0 +1,17 @@
+.cta-but{padding: 40px;
+    background-color: #003c5e;}
+body .clr-white{color: #fff;}
+.cta a{margin-left: 10px; margin: 0px 5px 0px;}
+.plr48{padding: 10px 48px;}
+
+@media (max-width: 575px){
+    .cta a{display: inline-block;}
+      
+      body .mb13{margin-bottom: 13px;}
+    .cta a {font-size: 14px;}
+}
+
+@media (max-width: 320px){
+    .plr48{padding: 10px 43px;}
+    .cta a{font-size: 12px;}
+}
